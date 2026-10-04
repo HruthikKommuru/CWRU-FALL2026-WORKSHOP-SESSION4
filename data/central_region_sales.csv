@@ -1,0 +1,121 @@
+order_id,order_date,customer_id,customer_segment,region,product_category,quantity,unit_price,sales_amount
+TM26-C-0030,06-07-2026,C0036,Retail,Central,Camping Gear,2,159.95,319.90
+TM26-C-0088,04-09-2026,C0013,Retail,Central,Footwear,2,189.95,379.90
+TM26-C-0037,04-09-2026,C0025,Retail,Central,Footwear,1,189.95,189.95
+TM26-C-0087,27-08-2026,C0074,Wholesale,Central,Apparel,9,22.46,202.14
+TM26-C-0111,10-09-2026,C0079,,Central,Apparel,1,29.95,29.95
+TM26-C-0090,22-09-2026,C0074,Wholesale,Central,Camping Gear,29,187.46,5436.34
+TM26-C-0032,26-07-2026,C0038,Retail,Central,Camping Gear,2,249.95,499.90
+TM26-C-0104,21-09-2026,C0075,Outlet,Central,Apparel,1,32.47,32.47
+TM26-C-0109,05-09-2026,C0015,Retail,Central,Camping Gear,3,249.95,749.85
+TM26-C-0018,27-09-2026,C0050,Outlet,Central,Camping Gear,1,103.97,103.97
+TM26-C-0033,09-08-2026,C0071,Retail,Central,Apparel,1,49.95,49.95
+TM26-C-0094,23-09-2026,C0029,Wholesale,Central,Camping Gear,26,187.46,4873.96
+TM26-C-0031,26-09-2026,C0034,Retail,Central,Apparel,1,89.95,89.95
+TM26-C-0098,24-07-2026,C0080,Wholesale,Central,Footwear,10,59.96,599.60
+TM26-C-0060,13-09-2026,C0075,Outlet,Central,Camping Gear,2,45.47,90.94
+TM26-C-0105,21-08-2026,C0031,Retail,Central,Hydration,2,79.95,159.90
+TM26-C-0023,10-08-2026,C0069,Retail,Central,Footwear,2,189.95,379.90
+TM26-C-0093,02-09-2026,C0010,Wholesale,Central,Apparel,18,67.46,1214.28
+TM26-C-0004,26-09-2026,C0071,Retail,Central,Camping Gear,2,249.95,499.90
+TM26-C-0036,23-07-2026,C0058,Outlet,Central,Camping Gear,1,162.47,162.47
+TM26-C-0027,15-08-2026,C0053,Retail,Central,Footwear,1,119.95,119.95
+TM26-C-0083,15-07-2026,C0056,Retail,Central,Footwear,1,119.95,119.95
+TM26-C-0108,15-08-2026,C0017,Wholesale,Central,Apparel,21,37.46,786.66
+TM26-C-0074,27-07-2026,C0076,Wholesale,Central,Apparel,9,104.96,944.64
+TM26-C-0079,22-08-2026,C0018,Retail,Central,Footwear,3,149.95,449.85
+TM26-C-0113,23-09-2026,C0001,Retail,Central,Camping Gear,3,399.95,1199.85
+TM26-C-0042,18-07-2026,C0005,Retail,Central,Camping Gear,3,159.95,479.85
+TM26-C-0089,11-09-2026,C0045,Retail,Central,Apparel,1,139.95,139.95
+TM26-C-0011,26-07-2026,C0032,Retail,Central,Accessories,1,39.95,39.95
+TM26-C-0044,19-07-2026,C0063,Wholesale,Central,Foot Wear,10,14.96,149.60
+TM26-C-0013,26-07-2026,C0036,Retail,Central,Accessories,1,39.95,39.95
+TM26-C-0061,08-07-2026,C0059,Retail,Central,Apparel,2,49.95,99.90
+TM26-C-0078,08-07-2026,C0024,Retail,Central,Footwear,-2,189.95,-379.90
+TM26-C-0065,25-08-2026,C0082,Retail,Central,Footwear,2,189.95,379.90
+TM26-C-0114,23-07-2026,C0075,Outlet,Central,Footwear,4,123.47,493.88
+TM26-C-0041,14-07-2026,C0035,Retail,Central,Apparel,1,49.95,49.95
+TM26-C-0059,16-07-2026,C0078,Retail,Central,camping gear,2,24.95,49.90
+TM26-C-0019,23-09-2026,C0066,Retail,Central,Accessories,3,39.95,119.85
+TM26-C-0006,26-07-2026,C0024,Retail,Central,Apparel,1,29.95,29.95
+TM26-C-0077,11-08-2026,C0068,Wholesale,Central,Camping Gear,28,52.46,1468.88
+TM26-C-0020,13-07-2026,C0062,Retail,Central,Apparel,2,29.95,59.90
+TM26-C-0099,17-09-2026,C0053,Retail,Central,Footwear,-2,119.95,-239.90
+TM26-C-0045,25-09-2026,C0019,Retail,Central,Footwear,2,79.95,159.90
+TM26-C-0054,10-08-2026,C0006,Retail,Central,Footwear,1,149.95,149.95
+TM26-C-0056,26-07-2026,C0026,Retail,Central,Camping Gear,1,399.95,399.95
+TM26-C-0069,30-07-2026,C0003,Retail,Central,Apparel,1,89.95,89.95
+TM26-C-0096,27-08-2026,C0028,Retail,Central,Apparel,3,139.95,419.85
+TM26-C-0095,11-08-2026,C0041,Retail,Central,Apparel,1,139.95,139.95
+TM26-C-0080,05-09-2026,C0057,Retail,Central,Camping Gear,2,159.95,319.90
+TM26-C-0038,17-08-2099,C0067,Outlet,Central,Camping Gear,1,162.47,162.47
+TM26-C-0040,22-09-2026,C0069,Retail,Central,Apparel,1,49.95,49.95
+TM26-C-0047,03-08-2026,C0025,Retail,Central,Apparel,1,29.95,29.95
+TM26-C-0055,17-07-2026,C0009,Retail,Central,Hydration,2,19.95,39.90
+TM26-C-0115,31-07-2026,C0049,Retail,Central,Apparel,2,49.95,99.90
+TM26-C-0063,05-07-2026,C0029,Wholesale,Central,Camping Gear,26,119.96,3118.96
+TM26-C-0057,27-07-2026,C0037,Retail,Central,Footwear,1,79.95,79.95
+TM26-C-0050,12-07-2026,C0075,Outlet,Central,Footwear,1,97.47,97.47
+TM26-C-0103,22-07-2026,C0078,Retail,Central,Apprel,2,69.95,139.90
+TM26-C-0051,29-09-2026,C0072,Retail,Central,Footwear,1,79.95,79.95
+TM26-C-0002,16-09-2026,C0032,Retail,Central,Accessories,2,59.95,119.90
+TM26-C-0043,30-08-2026,C0059,Retail,Central,Camping Gear,2,399.95,799.90
+TM26-C-0026,23-07-2026,C0012,Retail,Central,Footwear,2,189.95,379.90
+TM26-C-0046,09-09-2026,C0013,Retail,Central,Apparel,1,29.95,29.95
+TM26-C-0062,17-07-2026,C0026,Retail,Central,Camping Gear,1,249.95,249.95
+TM26-C-0034,17-08-2026,C0052,Retail,Central,Hydration,1,34.95,34.95
+TM26-C-0075,09-09-2026,C0061,Retail,Central,Footwear,1,189.95,189.95
+TM26-C-0100,28-08-2026,C0013,Retail,Central,Footwear,1,149.95,149.95
+TM26-C-0107,13-09-2026,C0024,Retail,Central,Apparel,1,29.95,29.95
+TM26-C-0058,16-08-2026,C0025,Retail,Central,Camping Gear,1,399.95,399.95
+TM26-C-0022,26-07-2026,C0021,Outlet,Central,Apparel,1,58.47,58.47
+TM26-C-0029,28-08-2026,C0003,Retail,Central,Accessories,2,59.95,119.90
+TM26-C-0066,28-07-2026,C0072,Retail,Central,Camping Gear,1,399.95,399.95
+TM26-C-0067,09-09-2026,C0026,Retail,Central,Apparel,2,89.95,179.90
+TM26-C-0008,26-07-2026,C0057,Retail,Central,Apparel,1,139.95,139.95
+TM26-C-0015,21-09-2026,C0079,Retail,Central,Camping Gear,1,159.95,159.95
+TM26-C-0053,29-08-2026,C0008,Retail,Central,Apparel,2,89.95,179.90
+TM26-C-0082,02-09-2026,C0039,Retail,Central,Camping Gear,3,159.95,479.85
+TM26-C-0097,02-07-2026,C0051,Outlet,Central,Footwear,1,97.47,97.47
+TM26-C-0110,17-07-2026,C0059,Retail,Central,Footwear,2,119.95,239.90
+TM26-C-0085,19-08-2026,C0016,Retail,Central,Hydration,1,34.95,34.95
+TM26-C-0016,11-09-2026,C0033,Outlet,Central,Camping Gear,2,103.97,207.94
+TM26-C-0073,15-09-2026,C0032,Retail,Central,Hydration,2,19.95,39.90
+TM26-C-0012,08-07-2026,C0081,Retail,Central,Apparel,1,139.95,139.95
+TM26-C-0072,04-08-2026,C0038,Retail,Central,Camping Gear,1,399.95,399.95
+TM26-C-0053,29-08-2026,C0008,Retail,Central,Apparel,1,89.95,89.95
+TM26-C-0005,27-09-2026,C0027,Retail,Central,Apparel,1,29.95,29.95
+TM26-C-0071,09-08-2026,C0071,Retail,Central,Camping Gear,2,159.95,319.90
+TM26-C-0039,14-08-2026,C0015,Retail,Central,Footwear,1,189.95,189.95
+TM26-C-0091,31-09-2026,C0072,Retail,Central,Camping Gear,1,249.95,249.95
+TM26-C-0064,21-08-2026,C0022,Retail,Central,Camping Gear,1,249.95,249.95
+TM26-C-0035,03-09-2026,C0018,Retail,Central,Accessories,1,39.95,39.95
+TM26-C-0117,23-07-2026,C0034,Retail,Central,Camping Gear,1,69.95,69.95
+TM26-C-0102,16-07-2026,C0051,Outlet,Central,Hydration,3,12.97,38.91
+TM26-C-0092,15-08-2026,C0011,Outlet,Central,Footwear,1,97.47,97.47
+TM26-C-0095,11-08-2026,C0041,Retail,Central,Apparel,1,139.95,139.95
+TM26-C-0052,04-07-2026,C0071,Retail,Central,Apparel,2,29.95,59.90
+TM26-C-0007,11-07-2026,C0009,Retail,Central,Hydration,2,19.95,39.90
+TM26-C-0049,13-09-2026,C0043,,Central,Apparel,1,49.95,49.95
+TM26-C-0112,12-09-2026,C0078,Retail,Central,Camping Gear,2,159.95,319.90
+TM26-C-0003,14-07-2026,C0050,Outlet,Central,Hydration,1,32.47,32.47
+TM26-C-0009,29-09-2026,C0064,Retail,Central,Camping Gear,2,249.95,499.90
+TM26-C-0106,12-08-2025,C0067,Outlet,Central,Accessories,1,16.22,16.22
+TM26-C-0070,07-09-2026,C0070,Outlet,Central,Footwear,3,77.97,233.91
+TM26-C-0084,28-09-2026,C0041,,Central,Accessories,1,12.95,12.95
+TM26-C-0021,28-07-2026,C0025,Retail,Central,Footwear,3,119.95,359.85
+TM26-C-0076,17-07-2026,C0065,Retail,Central,Footwear,2,119.95,239.90
+TM26-C-0081,14-08-2026,C0022,Retail,Central,Camping Gear,1,399.95,399.95
+TM26-C-0086,09-09-2026,C0079,Retail,Central,Footwaer,3,149.95,449.85
+TM26-C-0017,07-07-2026,C0058,,Central,Footwear,1,123.47,123.47
+TM26-C-0008,26-07-2026,C0057,Retail,Central,Apparel,1,139.95,139.95
+TM26-C-0116,03-07-2026,C0004,Retail,Central,Apparel,2,89.95,179.90
+TM26-C-0010,06-08-2026,C0050,Outlet,Central,footwear,2,103.97,207.94
+TM26-C-0001,14-09-2026,C0019,Retail,Central,Camping Gear,2,399.95,799.90
+TM26-C-0025,02-09-2026,C0006,Retail,Central,Camping Gear,1,159.95,159.95
+TM26-C-0024,24-08-2026,C0031,Retail,Central,Apparel,-3,89.95,-269.85
+TM26-C-0014,13-09-2026,C0071,Retail,Central,Apparel,3,49.95,149.85
+TM26-C-0048,01-08-2026,C0023,Retail,Central,Accessories,1,39.95,39.95
+TM26-C-0028,18-07-2026,C0003,Retail,Central,Hydration,2,34.95,69.90
+TM26-C-0101,04-09-2026,C0018,Retail,Central,Apparel,3,89.95,269.85
+TM26-C-0068,19-08-2026,C0029,Wholesale,Central,Footwear,12,112.46,1349.52
